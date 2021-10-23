@@ -1,5 +1,5 @@
-#ifndef UNTITLED1_MD5_H
-#define UNTITLED1_MD5_H
+#ifndef MD5_MD5_H
+#define MD5_MD5_H
 
 #include <array>
 #include <vector>
@@ -132,4 +132,4 @@ namespace MD5_context {
     }
 }
 
-#endif //UNTITLED1_MD5_H
+#endif //MD5_MD5_H
